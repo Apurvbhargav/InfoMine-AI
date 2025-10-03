@@ -1,6 +1,6 @@
 A. Aim:
 
-    1.Built an interactive PDF-based Question Answering Chatbot that enables users to query multiple PDF documents and receive context-aware, natural language answers.
+    1.Infomine is a interactive PDF-based Question Answering application that enables users to query multiple PDF documents and receive context-aware, natural language answers.
     2.Designed to help professionals, students, and researchers quickly extract relevant insights from lengthy documents.
 
 B. Key Features & Achievements:
